@@ -54,8 +54,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ButtonAttribute.cs" />
+     <Compile Include="Assets\CopyMesh.cs" />
      <Compile Include="Assets\DontRotate.cs" />
      <Compile Include="Assets\QuaternionTest.cs" />
+     <None Include="Assets\StandardCullOff.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/q2298/Documents/Github/RotationExpression/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
